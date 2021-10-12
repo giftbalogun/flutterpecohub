@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1027324468627",
+    "project_id": "flutterapplication-cad03",
+    "storage_bucket": "flutterapplication-cad03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027324468627:android:53fb25cca3325a0be11c66",
+        "android_client_info": {
+          "package_name": "com.example.admobflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027324468627-bqo1b3pbgp46qqp0mtsb1mq6fmigh18d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0PNzFTI1Lu2_dZEjJrySNOSBue1Y3Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027324468627-bqo1b3pbgp46qqp0mtsb1mq6fmigh18d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5537701541019565~7678270420"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027324468627:android:1f5e83c07aff96b1e11c66",
+        "android_client_info": {
+          "package_name": "com.giftbalogun.rbvflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027324468627-bqo1b3pbgp46qqp0mtsb1mq6fmigh18d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0PNzFTI1Lu2_dZEjJrySNOSBue1Y3Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027324468627-bqo1b3pbgp46qqp0mtsb1mq6fmigh18d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5537701541019565~3170203299"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027324468627:android:fe9a2be9dcac177ee11c66",
+        "android_client_info": {
+          "package_name": "giftbalogun.pecohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027324468627-74e6jl9vpgl0uplmp5i9hearj1urqjfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "giftbalogun.pecohub",
+            "certificate_hash": "75751485f8944374b59a1e0bc2e45c8868a1feb1"
+          }
+        },
+        {
+          "client_id": "1027324468627-bqo1b3pbgp46qqp0mtsb1mq6fmigh18d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0PNzFTI1Lu2_dZEjJrySNOSBue1Y3Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027324468627-bqo1b3pbgp46qqp0mtsb1mq6fmigh18d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
